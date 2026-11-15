@@ -72,18 +72,19 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 margin-bottom: 16px;
-margin-bottom: 4px;
 }
 
 .modal-input-wrap{
     position: relative;
 }
 .modal-label {
+    display: block;
 font-weight: 400;
 font-size: 12px;
 line-height: 1.16667;
 letter-spacing: 0.04em;
 color: #8e8f99;
+margin-bottom: 4px;
 }
 .modal-input + .modal-input-icon {
     position: absolute;
@@ -104,7 +105,7 @@ max-width: 360px;
 min-height: 40px;
    outline: transparent;
    background-color: transparent;
-   color: #2e2f42;
+   color: #434455;
    line-height: 1.5;
    letter-spacing: 0.02em;
    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
