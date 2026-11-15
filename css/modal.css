@@ -199,6 +199,8 @@ color: #4d5ae5;
 .modal-submit-btn {
     display: block;
     margin: auto;
+    font-weight: 500;
+    letter-spacing: 0.04em ;
     border-radius: 4px;
 padding: 16px 32px;
 width: 169px;
